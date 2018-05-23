@@ -5,7 +5,7 @@ Carpenter, Sherman, Kievit, Seth, Lau, & Fleming (under review) "Domain-general 
 
 Figures_Main.m will load the behavioural data and generate all the plots from the paper.
 
-In order to produce a single plot, Figure X, one must load the data and then simple run FigureX.m from the Figure_Code folder. Alternatively, one can simply comment out the other Figure functions from Figures_Main.m and run that.
+In order to produce a single plot, Figure X, one must load the data and then simply run FigureX.m from the Figure_Code folder. Alternatively, one can simply comment out the other Figure functions from Figures_Main.m and run that.
 
 ## Folders
 
