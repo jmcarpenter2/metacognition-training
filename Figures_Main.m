@@ -6,7 +6,7 @@ addpath(fullfile(rootdir, 'Figure Code')); % Add Figure Code path
 addpath(fullfile(rootdir, 'helper')); % Add helper functions path
 
 % load anonymized, preprocessed data
-load('results_61subs.mat');
+load('results.mat');
 
 % set plotting variables
 plotFigs = true;
