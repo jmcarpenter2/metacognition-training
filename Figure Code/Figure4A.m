@@ -134,7 +134,7 @@ if plotFigs
     set(gca, 'XTick', [-1.125,2:9,12.125], 'XTickLabel', {'Pre',2:9,'Post'}, 'fontsize', 11);
     xlim([-3.25, 14.25]);
     xlabel('Session', 'fontsize', 14);
-    ylabel({'Confidence level','(bias)'}, 'fontsize', 14);
+    ylabel({'Metacognitive bias','(confidence level)'}, 'fontsize', 14);
     title('Control Group', 'fontsize', 14);
     leg = legend('P, trained', 'P, untrained stimuus', 'M, trained stimulus', 'M, untrained stimulus', 'location', 'n');
     set(leg, 'FontSize', 8); 
